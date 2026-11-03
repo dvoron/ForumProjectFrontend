@@ -4,8 +4,8 @@ This is the Vue.js frontend for the application, powered by Vite.
 
 ## Prerequisites
 
-- **Node.js** version `>= 26.10.0` must be installed.
-- **npm** version `>= 12.2.0` must be installed.
+- **Node.js** version `>= 22.0.6` must be installed.
+- **npm** version `>= 11.11.0` must be installed.
 
 ## Setup Instructions
 
