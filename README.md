@@ -36,5 +36,5 @@ This is the Vue.js frontend for the application, powered by Vite.
 
 ## Related Projects
 
-- **[Backend Project](https://github.com/dvoron/backend)** - The Spring Boot backend service.
-- **[E2E Project](https://github.com/dvoron/E2E)** - End-to-End Playwright tests.
+- **[Backend Project](https://github.com/dvoron/ForumProjectBackend)** - The Spring Boot backend service.
+- **[E2E Project](https://github.com/dvoron/ForumProjectE2E)** - End-to-End Playwright tests.
